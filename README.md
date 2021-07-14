@@ -45,6 +45,3 @@ The data used in this research is present in data folder in CSV format.
 
 ### Code
 Code for the paper will be added soon.
-
-### Github Page
-[Link]()
