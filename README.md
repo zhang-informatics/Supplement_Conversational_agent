@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  
  # Dietary Supplement Conversational Agent
  
- This repository hosts code and dataset for research published in ["A Conversational Agent System for DietarySupplements Use"](https://github.com/esha-singh/Supplement_Conversational_agent/).
+ This repository hosts code and dataset for research published in ["A Conversational Agent System for Dietary Supplements Use"](https://github.com/esha-singh/Supplement_Conversational_agent/).
  
 ### Dataset
 The data used in this research is present in data folder in CSV format.
